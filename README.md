@@ -1,7 +1,7 @@
 # ft_enderwire
 This is the FizzysTech take on the Enderwire conversion
 
-This conversion is a modified version of DaRk_dOg's (boubounokefalos) Ender-Switchwire conversion and bringing the modification made in our Vyperwire conversion.
+This conversion is a modified version of DaRk_dOg's (boubounokefalos) conversion with a number of updates we all think should be made to the Switchwire.
 
 We have incorporated the Nevermore V4 filter into the design and other changes from the stock design will be added in due time.
 
