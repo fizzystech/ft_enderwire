@@ -3,7 +3,11 @@ This is the FizzysTech take on the Enderwire conversion
 
 This conversion is a modified version of DaRk_dOg's (boubounokefalos) Ender-Switchwire conversion and bringing the modification made in our Vyperwire conversion.
 
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%201.png)
+We have incorporated the Nevermore V4 filter into the design and other changes from the stock design will be added in due time.
+
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%202.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%203.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%204.png)
 
 Initial upload of the FT Viperwire conversion. Since there is no CAD file for the Anycubic Vyper frame, we have created it from scratch as per inputs from Robert on Discord.
 
