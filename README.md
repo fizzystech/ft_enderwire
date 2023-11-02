@@ -4,12 +4,16 @@ This is the FizzysTech take on the Enderwire conversion
 This conversion is a modified version of DaRk_dOg's (boubounokefalos) conversion with a number of updates we all think should be made to the Switchwire.
 
 We have incorporated the Nevermore V4 filter into the design and other changes from the stock design will be added in due time.
+Umbilical mods to both the XZ and Y axis have been incorporated with the help of TheVoronModder (Kyle).
+Other modifications will be added soon which will include the following: -
+
+1. Klicky PCB
+2. Knomi Stealthburner face
+3. BTT SB2209 integration via the umbilical mod provided by TheVoronModder (Kyle).
 
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2013.png)
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2014.png)
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2010.png)
-
-Initial upload of the FT Viperwire conversion. Since there is no CAD file for the Anycubic Vyper frame, we have created it from scratch as per inputs from Robert on Discord.
 
 All files in the SLTs folder are what what have been modified from DaRk_dOg's Enderwire conversion.
 
