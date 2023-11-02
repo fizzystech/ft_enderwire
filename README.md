@@ -4,7 +4,9 @@ This is the FizzysTech take on the Enderwire conversion
 This conversion is a modified version of DaRk_dOg's (boubounokefalos) conversion with a number of updates we all think should be made to the Switchwire.
 
 We have incorporated the Nevermore V4 filter into the design and other changes from the stock design will be added in due time.
+
 Umbilical mods to both the XZ and Y axis have been incorporated with the help of TheVoronModder (Kyle).
+
 Other modifications will be added soon which will include the following: -
 
 1. Klicky PCB
