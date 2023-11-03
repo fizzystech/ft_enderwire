@@ -15,7 +15,7 @@ Other modifications will be added soon which will include the following: -
 
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2015.png)
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2016.png)
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2010.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2017.png)
 
 All files in the SLTs folder are what what have been modified from DaRk_dOg's Enderwire conversion.
 
