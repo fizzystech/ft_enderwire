@@ -1,4 +1,7 @@
 # ft_enderwire
+
+NOTE: Updated easy to build CAD file has finally been released. Look out for folders that have a suffix a or b. You will need to turn off one of the options to view the CAD in the configuration of your choice. The key areas where this applies are for the Cable Chains / Umbilical, Stealthburner / Knomi Stealthburner, Mini 12864 / TFT50 screen.
+
 This is the FizzysTech take on the Enderwire conversion
 
 This conversion is a modified version of DaRk_dOg's (boubounokefalos) conversion with a number of updates we all think should be made to the Switchwire.
