@@ -13,9 +13,9 @@ Other modifications will be added soon which will include the following: -
 2. Knomi Stealthburner face
 3. BTT SB2209 integration via the umbilical mod provided by TheVoronModder (Kyle).
 
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2015.png)
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2016.png)
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2017.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2018.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2019.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2020.png)
 
 All files in the SLTs folder are what what have been modified from DaRk_dOg's Enderwire conversion.
 
