@@ -1,4 +1,7 @@
 # ft_enderwire
+
+NOTE: Updated easy to build CAD file has finally been released. Look out for folders that have a suffix a or b. You will need to turn off one of the options to view the CAD in the configuration of your choice. The key areas where this applies are for the Cable Chains / Umbilical, Stealthburner / Knomi Stealthburner, Mini 12864 / TFT50 screen.
+
 This is the FizzysTech take on the Enderwire conversion
 
 This conversion is a modified version of DaRk_dOg's (boubounokefalos) conversion with a number of updates we all think should be made to the Switchwire.
@@ -13,9 +16,9 @@ Other modifications will be added soon which will include the following: -
 2. Knomi Stealthburner face
 3. BTT SB2209 integration via the umbilical mod provided by TheVoronModder (Kyle).
 
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2015.png)
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2016.png)
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2017.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2018.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2019.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2020.png)
 
 All files in the SLTs folder are what what have been modified from DaRk_dOg's Enderwire conversion.
 
