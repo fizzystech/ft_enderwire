@@ -16,10 +16,8 @@ Other modifications will be added soon which will include the following: -
 2. Knomi Stealthburner face
 3. BTT SB2209 integration via the umbilical mod provided by TheVoronModder (Kyle).
 
+Hope that you appreciate the amount of time and effort to come up with the FT version of the Enderwire. If you like our work and would like to contribute to fund filaments and other equipment required for prototyping, please do so at my paypal (https://paypal.me/fizzystech) or Ko-fi (https://ko-fi.com/fizzystech). Your support is greatly appreciated and will fund updates and new projects :) 
+
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2018.png)
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2019.png)
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2020.png)
-
-All files in the SLTs folder are what what have been modified from DaRk_dOg's Enderwire conversion.
-
-SLT's for the modified files have been uploaded for those that would like to test fit. Regular updates are being made as we progress testing the updated parts we push out.
