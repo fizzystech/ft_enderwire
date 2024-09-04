@@ -13,5 +13,6 @@ Umbilical mods to both the XZ and Y axis have been incorporated with the help of
 Hope that you appreciate the amount of time and effort to come up with the FT version of the Enderwire. If you like our work and would like to contribute to fund filaments and other equipment required for prototyping, please do so at my paypal (https://paypal.me/fizzystech) or Ko-fi (https://ko-fi.com/fizzystech). Your support is greatly appreciated and will fund updates and new projects :) 
 
 ![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Release%20Pic%201.jpg)
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2019.png)
-![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Promo%20Pic%2020.png)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Release%20Pic%202.jpg)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Release%20Pic%203.jpg)
+![alt text](https://github.com/fizzystech/ft_enderwire/blob/main/images/Release%20Pic%204.jpg)
